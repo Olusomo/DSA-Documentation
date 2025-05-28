@@ -8,7 +8,7 @@ I have learnt quite a number of things ranging from Ms Excel to SQL and now to P
 ### Project Overview
 This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us 
 
-###Data Sources
+### Data Sources
 The primary data source used is data.csv and this is an open source data that can be freely downloaded from and open source online such as kaggle..
 
 ### Tools Used
@@ -19,3 +19,8 @@ The primary data source used is data.csv and this is an open source data that ca
 - SQL Server (for QUerying and Analysis)
 - PowerBi (for creating a report)
 - Ms Powerpoint (for Presentation)
+
+``` SQL
+SELECT A,B,C
+WHERE A>25
+```
